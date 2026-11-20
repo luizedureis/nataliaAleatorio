@@ -79,8 +79,8 @@ export default function App() {
       {!showMessage ? (
         <div className="intro">
           <div className="intro-heart">💗</div>
-          <p className="subtitle">Uma pequena surpresa para você</p>
-          <h1>Prepare-se...</h1>
+          <p className="subtitle">Uma pequena coisa para você</p>
+          <h1>Papo de surpresa...</h1>
 
           <button onClick={celebrate}>
             Abrir surpresa <span>❤️</span>
@@ -90,10 +90,10 @@ export default function App() {
         <div className="celebration">
           <div className="top-decoration">✨ 💖 ✨</div>
 
-          <h1>NATÁLIA LINDA</h1>
+          <h1>NATÁLIA LINDA ❤️</h1>
 
           <p className="message-subtitle">
-            Porque você merece o mundo! ❤️
+            ✨ Você é simplesmente maravilhosa! ✨
           </p>
 
           <div className="video-container">
